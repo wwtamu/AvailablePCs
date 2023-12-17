@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>IT-APPSTUDENT1</Machine>
+    <WindowsUser>Admin</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>7527DA3FBDFF53393070EBF2D65B424B68FF08DE201FFE8006D722A67CE992C2</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>08b65455-1cd6-433c-9011-7aec76d30602_1.0.0.2_neutral__5gyrq6psz227t</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>08b65455-1cd6-433c-9011-7aec76d30602_5gyrq6psz227t!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>08b65455-1cd6-433c-9011-7aec76d30602</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Admin</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.2</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\Projects\Mobile Dawg\AvailablePCs\AvailablePCs\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-08-13T15:35:53.226</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\Projects\Mobile Dawg\AvailablePCs\AvailablePCs\bin\Debug\AvailablePCs.exe">
+      <PackagePath>AvailablePCs.exe</PackagePath>
+      <Modified>2013-08-13T15:35:51.971</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Projects\Mobile Dawg\AvailablePCs\AvailablePCs\bin\Debug\AvailablePCs.pdb">
+      <PackagePath>AvailablePCs.pdb</PackagePath>
+      <Modified>2013-08-13T15:35:51.948</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Projects\Mobile Dawg\AvailablePCs\packages\Callisto.1.3.1\lib\winrt45\Callisto.dll">
+      <PackagePath>Callisto.dll</PackagePath>
+      <Modified>2013-08-12T17:03:10.124</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Projects\Mobile Dawg\AvailablePCs\AvailablePCs\Assets\InUseComputer.png">
+      <PackagePath>Assets\InUseComputer.png</PackagePath>
+      <Modified>2013-08-12T17:03:09.839</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Projects\Mobile Dawg\AvailablePCs\AvailablePCs\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-08-12T17:03:09.761</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Projects\Mobile Dawg\AvailablePCs\AvailablePCs\Assets\AvailableComputer.png">
+      <PackagePath>Assets\AvailableComputer.png</PackagePath>
+      <Modified>2013-08-12T17:03:09.714</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Projects\Mobile Dawg\AvailablePCs\AvailablePCs\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-08-12T17:03:09.746</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Projects\Mobile Dawg\AvailablePCs\AvailablePCs\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-08-12T17:03:09.761</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Projects\Mobile Dawg\AvailablePCs\AvailablePCs\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-08-12T17:03:09.777</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Projects\Mobile Dawg\AvailablePCs\AvailablePCs\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-08-12T15:34:12.290</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Projects\Mobile Dawg\AvailablePCs\AvailablePCs\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2013-08-12T17:03:09.839</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Projects\Mobile Dawg\AvailablePCs\AvailablePCs\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2013-08-12T17:03:09.605</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Projects\Mobile Dawg\AvailablePCs\AvailablePCs\bin\Debug\SettingsView.xaml">
+      <PackagePath>SettingsView.xaml</PackagePath>
+      <Modified>2013-08-12T17:03:09.636</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Projects\Mobile Dawg\AvailablePCs\packages\Callisto.1.3.1\lib\winrt45\Callisto\themes\Generic.xaml">
+      <PackagePath>Callisto\themes\Generic.xaml</PackagePath>
+      <Modified>2013-08-12T17:03:10.108</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Projects\Mobile Dawg\AvailablePCs\AvailablePCs\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-08-13T15:35:52.310</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
